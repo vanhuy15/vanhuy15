@@ -11,7 +11,7 @@
 ### 👨‍💻 Về Bản Thân Mình
 - 🎓 Đang học hỏi và rèn luyện mỗi ngày về **Thiết kế và Lập trình Web**.
 - 🥅 **Sở thích:** Lập trình, đá bóng và theo dõi các giải đấu bóng đá đỉnh cao.
-- 🚀 **Đang phát triển:** Đang hoàn thiện dự án **Hệ thống Quản lý và Đặt sân bóng đá nhân tạo** (Sắp được public lên đây!).
+- 🚀 **Đang phát triển:** Đang hoàn thiện dự án **Hệ thống Quản lý và Đặt sân bóng đá nhân tạo.
 - 💡 **Mục tiêu:** Trở thành một Full-stack Developer có thể tự tay làm ra những sản phẩm triệu người dùng.
 
 ---
