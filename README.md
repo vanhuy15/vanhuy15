@@ -35,17 +35,6 @@
 
 ---
 
-### 📈 Thống Kê Hoạt Động GitHub
-<p align="center">
-  <a href="https://github.com/vanhuy15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanhuy15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=28a745" alt="Trạng thái Github của Huy" />
-  </a>
-  <a href="https://github.com/vanhuy15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=28a745" alt="Ngôn ngữ yêu thích" />
-  </a>
-</p>
-
----
 
 ### 📫 Kết Nối Giao Lưu Cùng Mình
 <p align="left">
