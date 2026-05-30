@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào! Mình là Huy 👋⚽</h1>
+<h1 align="center">Xin chào!👋⚽</h1>
 
 <h3 align="center">Sinh viên IT & Một Fan Cứng Của Bóng Đá! Đam mê xây dựng các nền tảng Web mang tính thực tiễn cao.</h3>
 
@@ -9,8 +9,8 @@
 ---
 
 ### 👨‍💻 Về Bản Thân Mình
-- 🎓 Đang học hỏi và rèn luyện mỗi ngày về **Thiết kế và Lập trình Web**.
-- 🥅 **Sở thích:** Lập trình, đá bóng và theo dõi các giải đấu bóng đá đỉnh cao.
+- 🎓 Đang học hỏi và rèn luyện mỗi ngày .
+- 🥅 **Sở thích:** Lập trình, đá bóng .
 - 🚀 **Đang phát triển:** Đang hoàn thiện dự án **Hệ thống Quản lý và Đặt sân bóng đá nhân tạo.
 - 💡 **Mục tiêu:** Trở thành một Full-stack Developer có thể tự tay làm ra những sản phẩm triệu người dùng.
 
