@@ -46,15 +46,6 @@
 
 ---
 
-### 📊 Thống Kê GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanhuy15&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy15&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Kết Nối Giao Lưu Cùng Mình
 
 <p align="left">
