@@ -11,8 +11,7 @@
 ### 👤 Về Bản Thân Mình
 
 - 🎓 **Học vấn & Rèn luyện:** Sinh viên CNTT, luôn học hỏi và trau dồi kỹ năng lập trình mỗi ngày.
-- ⚽ **Sở thích:** Lập trình giải quyết bài toán thực tế, đam mê đá bóng sân 5 & sân 7.
-- 🚀 **Dự án vừa hoàn thiện:** **[Hệ Thống Quản Lý & Đặt Sân Bóng Đá Phủi Đà Nẵng](https://github.com/vanhuy15/quanLySanBongDaPhuiDaNang)** (Kiến trúc Custom MVC, chống Race Condition, tích hợp 5 bộ công cụ kiểm thử).
+- ⚽ **Sở thích:** Lập trình giải quyết bài toán thực tế, đam mê bóng đá.
 - 💡 **Mục tiêu:** Trở thành một **Full-stack / Backend Developer** có thể tự tay làm ra những sản phẩm chất lượng cao phục vụ cộng đồng.
 
 ---
@@ -35,7 +34,6 @@
 
 - ⚽ **[Hệ Thống Quản Lý & Đặt Sân Bóng Đá Phủi Đà Nẵng](https://github.com/vanhuy15/quanLySanBongDaPhuiDaNang):**  
   *Web app đặt sân bóng online toàn diện cho sân 5 & sân 7 ghép. Tự xây dựng Custom MVC thuần (PHP 8.2 + MySQL), xử lý chống đặt trùng sân (Race Condition - `SELECT FOR UPDATE`), đếm ngược giữ chỗ 10 phút, thanh toán VietQR tự động, tính điểm uy tín khách hàng và bao phủ 100% với 5 bộ công cụ kiểm thử (PHPUnit, Postman, Playwright, JMeter, OWASP ZAP).*  
-  *(Trạng thái: **Đã hoàn thiện & Triển khai thành công**)*
 
 - 💼 **[Sàn Việc Vặt (Student Micro Tasks)](https://github.com/vanhuy15/san_viec_vat):**  
   *Nền tảng kết nối sinh viên và các công việc làm thêm linh hoạt, hỗ trợ tìm kiếm và đăng tin việc làm ngắn hạn (Java Servlet, JSP, MySQL, Bootstrap).*
