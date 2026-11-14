@@ -1,4 +1,4 @@
-# Xin chào! 👋 ⚽
+# Xin chào!
 
 ### Sinh viên IT & Một Fan Cứng Của Bóng Đá! Đam mê xây dựng các nền tảng Web & Mobile mang tính thực tiễn cao.
 
